@@ -3,7 +3,7 @@
 
 La17 (Language 2017) is small compiler of a subset of C language to the Mixal assembly language.
 
-This is a fork of [La16](https://github.com/maanoo/la16). 
+This is a fork of [La16](https://github.com/MaanooAk/la16). 
 
 ## Features
 
