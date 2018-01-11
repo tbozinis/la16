@@ -1,25 +1,17 @@
 
-# La16 
+# La17
 
-La16 (Language 2016) is small compiler of a subset of C language to the Mixal assembly language.
+La17 (Language 2017) is small compiler of a subset of C language to the Mixal assembly language.
 
-A fork of La16 named [La17](https://github.com/tbozinis/la17) has been developed.
+This is a fork of [La16](https://github.com/maanoo/la16). 
 
 ## Features
 
 * Basic control flow
-* Arrays
-* Block scope
-* Print function
-
-## Dependencies
-
-Flex and yacc
-
-Install for debian based:
-```
-apt install byacc flex
-```
+* Basic methods
+* Only int type is currently suported
+* Only while loop is currently suported
+* Sellection (if-else) 
 
 ## License
 
